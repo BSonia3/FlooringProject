@@ -1,1 +1,2 @@
 # Flooring-Mastery
+This is aFlooring Java and Spring MVC app. Before I start coding I creayed UML diagram for the project which is include in this link as a png picture. I completed the project using the NetBeans IDE. The project is a CRUD application where I used MVC, The Spring Framework library Maven POM.xml file and the dependencies injection.I Tested my dao and my serviceLayer using Junit.
